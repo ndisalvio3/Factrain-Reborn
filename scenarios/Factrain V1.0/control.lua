@@ -26,9 +26,11 @@ script.on_event(defines.events.on_player_respawned, function(event)
   character.insert{name="firearm-magazine", count=10}
 end)
 
+ --[[
 script.on_event(defines.events.on_gui_click, function(event)
   silo_script.on_gui_click(event)
 end)
+--]]
 
 script.on_init(function()
   global.version = version
