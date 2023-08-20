@@ -1,10 +1,10 @@
 {
-  "name": "Factrain_Reborn",
-  "version": "1.0",
-  "title": "Factrain Reborn",
   "author": "jbndis",
   "contact": "",
-  "homepage": "",
   "description": "Much Bigger MAP! More Space for railways and roads! Updated to the latest version of factorio!",
-  "factorio_version": "1.1.87"
+  "factorio_version": "1.1",
+  "homepage": "",
+  "name": "Factrain_Reborn",
+  "title": "Factrain Reborn",
+  "version": "1.0.1"
 }
